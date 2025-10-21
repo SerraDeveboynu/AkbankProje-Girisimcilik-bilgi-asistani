@@ -115,11 +115,11 @@ Geliştirilen "Girişimcilik Bilgi Asistanı" projesi, belirtilen kurumların de
 🧭 Test Edin
 
 Aşağıdaki gibi örnek sorularla sistemi test edebilirsiniz:
-
+```
 “KOSGEB genç girişimcilere hangi destekleri sağlar?”
 “TÜBİTAK 1512 programına kimler başvurabilir?”
 “TEKNOFEST yarışmalarında yaş sınırı var mı?”
-
+```
 ---
 
 ## 🌐 Web Arayüzü (Deploy Linki)
