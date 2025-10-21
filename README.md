@@ -22,10 +22,12 @@ Bu kurumların web sitelerinde yer alan **hibe, destek ve başvuru süreçleriyl
 elle kopyalanarak `.txt` dosyalarına aktarılmıştır.  
 Toplanan metinler şunlardır:
 
+\'\'\'
 data/
 ├── kosgeb.txt
 ├── tubitak.txt
 └── teknofest.txt
+\'\'\'
 
 ---
 
@@ -46,7 +48,7 @@ Proje, veriye dayalı yanıt üretmek için **RAG (Retrieval-Augmented Generatio
 ---
 
 ## 🧱 Proje Yapısı
-
+\'\'\'
 AkbankProje-Girisimcilik-bilgi-asistani/
 ├── data/
 │ ├── kosgeb.txt
@@ -56,6 +58,7 @@ AkbankProje-Girisimcilik-bilgi-asistani/
 ├── requirements.txt # Python bağımlılıkları
 ├── demo.gif # Uygulama tanıtım GIF'i
 └── README.md # Proje açıklama dosyası
+\'\'\'
 
 ---
 
@@ -72,7 +75,7 @@ AkbankProje-Girisimcilik-bilgi-asistani/
 
 ### 🧱 Sanal Ortam (Virtual Environment) Oluşturmak
 
-```bash
+\`\`\`
 python -m venv env
 env\Scripts\activate   # Windows için
 
@@ -85,6 +88,8 @@ chromadb
 google-generativeai
 sentence-transformers
 langchain
+
+\'\'\' 
 
 --- 
 
