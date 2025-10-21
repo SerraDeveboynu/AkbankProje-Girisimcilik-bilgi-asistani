@@ -1,9 +1,9 @@
 # AkbankProje-Girisimcilik-bilgi-asistani
-  TÜBİTAK, KOSGEB ve Teknofest verilerini kullanarak öğrenci girişimcilere hibe ve destekler hakkında bilgi veren, RAG tabanlı bir chatbot projesidir.
+  TÜBİTAK, KOSGEB ve TEKNOFEST verilerini kullanarak öğrenci girişimcilere hibe ve destekler hakkında bilgi veren, RAG tabanlı bir chatbot projesidir.
 
 ## 🚀 Projenin Amacı
 
-  Bu projenin temel amacı, 'TÜBİTAK, KOSGEB ve Teknofest' gibi önemli ulusal kaynaklardan edinilen bilgilerle donatılmış bir "Girişimcilik Bilgi Asistanı" oluşturmaktır.
+  Bu projenin temel amacı, 'TÜBİTAK, KOSGEB ve TEKNOFEST' gibi önemli ulusal kaynaklardan edinilen bilgilerle donatılmış bir "Girişimcilik Bilgi Asistanı" oluşturmaktır.
 
 -  Geliştirilen bu RAG tabanlı chatbot, özellikle üniversite öğrencileri ve genç girişimcilerin, hibe programları, başvuru süreçleri, yarışmalar ve diğer destekler hakkında hızlı ve doğru bilgilere ulaşmasını sağlamayı hedeflemektedir.
 -  Bu sayede, karmaşık ve dağınık bilgilerin tek bir arayüzde toplanması ve kullanıcıların sorularına anında yanıt verilmesi amaçlanmıştır.
