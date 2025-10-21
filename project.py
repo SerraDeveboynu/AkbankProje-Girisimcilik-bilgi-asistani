@@ -52,9 +52,12 @@ client = chromadb.PersistentClient(path=str(DB_DIR), settings=Settings(allow_res
 collection = client.get_or_create_collection(name="girisim", metadata={"hnsw:space": "cosine"})
 
 def rebuild_index_from_data_dir():
+    # data/*.txt dosyalarını oku ve parçala
     if not DATA_DIR.exists():
-        raise RuntimeError("data/ klasörü bulunamadı.")
+        raise RuntimeError("data/ klasöründe .txt dosyası yok.")
+
     texts, metadatas, ids = [], [], []
+    idx = 0
     for f in DATA_DIR.glob("*.txt"):
         raw = f.read_text(encoding="utf-8", errors="ignore")
         parts = split_text(raw, 800, 120)
@@ -62,21 +65,29 @@ def rebuild_index_from_data_dir():
             texts.append(p)
             metadatas.append({"source": f.name, "part": i+1})
             ids.append(f"{f.stem}-{i+1:05d}")
+
     if not texts:
-        raise RuntimeError("data/ klasöründe .txt dosyası yok.")
-try:
-    client.delete_collection(name="girisim")
-except Exception:
-    pass
+        raise RuntimeError("data/ klasöründe .txt bulunamadı.")
 
-collection = client.get_or_create_collection(
-    name="girisim",
-    metadata={"hnsw:space": "cosine"}
-)
+    try:
+        client.delete_collection(name="girisim")
+    except Exception:
+        pass
 
-vecs = embed_texts(texts)
-collection.add(ids=ids, documents=texts, embeddings=vecs.tolist(), metadatas=metadatas)
-return len(texts)
+    collection = client.get_or_create_collection(
+        name="girisim",
+        metadata={"hnsw:space": "cosine"}
+    )
+
+    vecs = embed_texts(texts)
+    collection.add(
+        ids=ids,
+        documents=texts,
+        embeddings=vecs.tolist(),
+        metadatas=metadatas
+    )
+    return len(texts)
+
 
 def retrieve(query, k=4):
     qvec = embed_texts([query])[0].tolist()
@@ -150,6 +161,7 @@ if prompt := st.chat_input("Örn: 'KOSGEB genç girişimcilere hangi destekleri 
                 st.error(answer)
 
     st.session_state.chat.append({"role": "assistant", "content": answer})
+
 
 
 
