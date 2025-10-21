@@ -64,7 +64,17 @@ def rebuild_index_from_data_dir():
             ids.append(f"{f.stem}-{i+1:05d}")
     if not texts:
         raise RuntimeError("data/ klasöründe .txt dosyası yok.")
-    collection.delete(where={})
+global collection
+try:
+    client.delete_collection(name="girisim")
+except Exception:
+    pass
+
+collection = client.get_or_create_collection(
+    name="girisim",
+    metadata={"hnsw:space": "cosine"}
+)
+
     vecs = embed_texts(texts)
     collection.add(ids=ids, documents=texts, embeddings=vecs.tolist(), metadatas=metadatas)
     return len(texts)
@@ -141,3 +151,4 @@ if prompt := st.chat_input("Örn: 'KOSGEB genç girişimcilere hangi destekleri 
                 st.error(answer)
 
     st.session_state.chat.append({"role": "assistant", "content": answer})
+
