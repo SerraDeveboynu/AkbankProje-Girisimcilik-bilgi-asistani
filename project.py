@@ -64,6 +64,7 @@ def rebuild_index_from_data_dir():
             ids.append(f"{f.stem}-{i+1:05d}")
     if not texts:
         raise RuntimeError("data/ klasöründe .txt dosyası yok.")
+
 global collection
 try:
     client.delete_collection(name="girisim")
@@ -151,5 +152,6 @@ if prompt := st.chat_input("Örn: 'KOSGEB genç girişimcilere hangi destekleri 
                 st.error(answer)
 
     st.session_state.chat.append({"role": "assistant", "content": answer})
+
 
 
