@@ -12,7 +12,7 @@
 
 ## 📊 Veri Seti Hakkında Bilgi
 
-Projede kullanılan veri seti, üç ana kaynaktan (TÜBİTAK, KOSGEB ve Teknofest resmi web siteleri) manuel olarak toplanmıştır.
+Projede kullanılan veri seti, üç ana kaynaktan (TÜBİTAK, KOSGEB ve TEKNOFEST resmi web siteleri) manuel olarak toplanmıştır.
 -  Veri toplama aşamasında, her bir kurumun hibe, destek ve başvuru süreçleri ile ilgili 2-3 sayfalık metinler kopyalanarak ayrı `.txt` dosyaları haline getirilmiştir.
 -  Bu süreçte herhangi bir programatik veri kazıma (web scraping) yöntemi kullanılmamış, içerikler doğrudan ilgili sayfalardan kopyalanıp yapıştırılmıştır. Toplanan bu metinler, projenin temel bilgi havuzunu oluşturmaktadır.
 
@@ -48,6 +48,6 @@ Geliştirilen "Girişimcilik Bilgi Asistanı" projesi, belirtilen kurumların de
 
 ## 🌐 Web Arayüzü (Deploy Linki)
 
--  Projenin çalışan web arayüzüne aşağıdaki linkten ulaşabilirsiniz. (Link gelecek. )
+-  Projenin çalışan web arayüzüne aşağıdaki linkten ulaşabilirsiniz.
 
     Web Arayüzü Linki: `https://akbankproje-girisimcilik-bilgi-asistani-hupx3ffynvcx64z5d7bmzw.streamlit.app/`
