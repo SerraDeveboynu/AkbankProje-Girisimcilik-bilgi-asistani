@@ -50,4 +50,4 @@ Geliştirilen "Girişimcilik Bilgi Asistanı" projesi, belirtilen kurumların de
 
 -  Projenin çalışan web arayüzüne aşağıdaki linkten ulaşabilirsiniz. (Link gelecek. )
 
-    Web Arayüzü Linki: `[Buraya Çalışan Projenizin Linki Gelecek]`
+    Web Arayüzü Linki: `https://akbankproje-girisimcilik-bilgi-asistani-hupx3ffynvcx64z5d7bmzw.streamlit.app/`
