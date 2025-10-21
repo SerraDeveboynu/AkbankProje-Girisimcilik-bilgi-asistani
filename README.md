@@ -86,12 +86,13 @@ pip install -r requirements.txt
 ```
 
 🧩 Bu işlem şu temel kütüphaneleri yükleyecektir:
+```
 streamlit
 chromadb
 google-generativeai
 sentence-transformers
 langchain
-
+```
 --- 
 
 ### "Kullanılan Teknolojiler"
