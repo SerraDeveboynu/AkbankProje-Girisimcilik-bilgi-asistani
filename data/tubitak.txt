@@ -1,0 +1,109 @@
+TÜBİTAK – 1512 Bireysel Girişimcilik Aşamalı Destek Programı (BİGG)
+
+Amaç:
+Girişimcilerin teknoloji ve yenilik odaklı iş fikirlerini ticarileştirmelerini desteklemek. 
+Bireysel fikirlerin firma kurularak yenilikçi ürünlere dönüştürülmesi hedeflenmektedir.
+
+Kapsam:
+Program, girişimcilere iş fikrinden pazara kadar olan süreçte finansal, teknik ve eğitim desteği sağlar.
+Sanayi deneyimi olan rehberler aracılığıyla girişimcilere teknik, ticari ve idari konularda mentorluk sunulur.
+
+Destek Aşamaları:
+1. Aşama – İş Fikri Geliştirme: Girişimci, iş fikrini sunar. Uygun bulunanlar eğitim ve rehberlik desteği alır.
+2. Aşama – Sermaye Desteği: Uygun bulunan girişim planlarına, girişimcinin kuracağı şirkete 100.000 TL’ye kadar geri ödemesiz destek sağlanır.
+3. Aşama – Ar-Ge Geliştirme: İhtiyaç halinde 550.000 TL’ye kadar ek Ar-Ge desteği TÜBİTAK 1507 programı kapsamında verilir.
+4. Aşama – Ticarileşme: Ürünün pazara sunulması ve büyüme aşaması desteklenir.
+
+Kimler Başvurabilir:
+- Lisans mezunları veya mezuniyetine en fazla 1 yıl kalan öğrenciler.
+- Yüksek lisans veya doktora öğrencileri.
+- Mezuniyetinin üzerinden en fazla 5 yıl geçmiş kişiler.
+
+Başvuru:
+- Başvurular eteydeb.tubitak.gov.tr adresinden online olarak alınmaktadır.
+- Tüm teknoloji alanlarından yenilikçi fikirler kabul edilir.
+
+Ek Bilgi:
+Program, 4 aşamalı bir destek süreci olup ortalama 4 yıl sürer.
+Amaç, genç girişimcilerin fikirlerini sürdürülebilir ve yenilikçi şirketlere dönüştürmesidir.
+
+İletişim: 1512@tubitak.gov.tr
+
+-----------------------------------------------------------------------------------------------------------------
+
+TÜBİTAK 2024–2025 Ar-Ge ve Yenilik Konuları
+
+Genel Bilgi:
+TÜBİTAK, 2024–2025 dönemi için ulusal ihtiyaçlar ve küresel eğilimler doğrultusunda öncelikli Ar-Ge ve yenilik konularını belirlemiştir. Amaç; ülkemizin teknolojik rekabet gücünü artırmak, yeşil dönüşümü desteklemek ve sürdürülebilir kalkınmaya katkı sağlamaktır.
+
+🌱 1. Yeşil Büyüme ve İklim Değişikliği
+
+Avrupa Yeşil Mutabakatı hedefleriyle uyumlu araştırmalar.
+
+Enerji verimliliği sağlayan yeni malzeme ve sistemler.
+
+Temiz enerji teknolojileri (güneş, rüzgar, hidrojen, biyogaz).
+
+İklim değişikliğine uyum için veri temelli modelleme çalışmaları.
+
+Atık yönetimi, karbon yakalama, döngüsel ekonomi uygulamaları.
+
+Organik ve biyobazlı gübre üretim teknolojileri.
+
+⚙️ 2. Dijital Teknolojiler ve Siber Güvenlik
+
+Yapay zekâ, büyük veri, bulut bilişim, 6G iletişim teknolojileri.
+
+Siber güvenlik çözümleri: kriptografi, güvenilir işletim sistemleri, mobil güvenlik.
+
+Kuantum sonrası kriptografi ve veri koruma teknolojileri.
+
+Dijital oyun, mikro-nano-opto-elektro-mekanik sistemler.
+
+Açık kaynak güvenlik yazılımları ve kimlik doğrulama sistemleri.
+
+🔬 3. Sağlık Teknolojileri
+
+Biyoteknolojik ilaçlar, kişiselleştirilmiş tıp, genom düzenleme.
+
+Yerli tanı kitleri, aşılar ve immünolojik ürünler.
+
+Biyomedikal ekipmanların yerli üretimi.
+
+Veri güvenliği ve gizlilik odaklı sağlık bilişim sistemleri.
+
+🧱 4. Sanayi ve Üretim Teknolojileri
+
+İleri malzeme geliştirme (kompozit, nano, yüzey kaplama teknolojileri).
+
+Motor, plastik, metal ve polimer işleme teknolojilerinde verimlilik artışı.
+
+Yenilikçi üretim yöntemleri: eklemeli imalat, biyotaklit tasarımlar.
+
+Hafifletilmiş otomotiv malzemeleri, sensör ağları, akıllı üretim sistemleri.
+
+🧠 5. Yapay Zekâ ve Veri Odaklı Çözümler
+
+Az etiketli veriyle modelleme, pekiştirmeli öğrenme.
+
+Açıklanabilir yapay zekâ modelleri.
+
+Alan bilgisine sahip, güvenilir ve enerji verimli modellerin geliştirilmesi.
+
+İklim modelleme, ekosistem tahminleri ve çevresel veri analitiği.
+
+🧬 6. Kimyasal ve Biyolojik Güvenlik
+
+Kimyasal ve biyolojik savaş ajanlarına karşı tespit sistemleri.
+
+Taşınabilir sensörler, erken uyarı sistemleri, biyogüvenlik laboratuvar çözümleri.
+
+Dekontaminasyon malzemeleri ve koruyucu tekstillerin geliştirilmesi.
+
+🛰️ 7. Savunma, Enerji ve Ulaşım
+
+Çift kullanımlı (dual use) teknolojiler.
+
+Yenilenebilir enerji üretimi ve depolama malzemeleri.
+
+Akıllı ulaşım sistemleri ve sürdürülebilir mobilite çözümleri.

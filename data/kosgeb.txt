@@ -1,0 +1,29 @@
+ KOSGEB - Girişimci Destek Programı
+
+Programın Amacı:
+- Ülkemizin stratejik önceliklerine uygun olarak, yeni kurulan işletmelerin desteklenerek sürdürülebilirliğinin sağlanması hedeflenir.
+
+Program Kapsamı:
+- İş Kurma Desteği: KOSGEB'in desteklediği sektörlerdeki tüm işletmeler başvurabilir.
+- İş Geliştirme Desteği: Belirli NACE kodlarına (C-İmalat, 61-Telekomünikasyon, 62-Bilgisayar programlama, 63-Bilişim altyapısı, 72-Bilimsel araştırma ve geliştirme) sahip işletmeler başvurabilir.
+
+Destek Unsurları:
+- İş Kurma Desteği:
+    - Kuruluş Desteği: Gerçek kişi işletmelerine 10.000 TL, sermaye şirketlerine 20.000 TL geri ödemesiz destek verilir.
+    - Ek Destek: Genç, kadın, engelli, gazi veya birinci derecede şehit yakını girişimcilere 10.000 TL ilave destek sağlanır.
+    - Personel Giderleri Desteği: İşletmede çalışan personelin prim gün sayılarının toplamı 360 ve üzeri olduğu her bir dönem için (toplam 3 dönem) 1 aylık brüt asgari ücretin işverene maliyeti kadar geri ödemesiz destek sağlanır. Destek süresi 36 aydır.
+
+- İş Geliştirme Desteği:
+    - Destek Unsurları: Personel, makine-teçhizat ve kalıp, yazılım, hizmet alımı (eğitim, danışmanlık, belgelendirme, test, analiz, pazarlama, tasarım, sınai mülkiyet hakları) giderleri desteklenir.
+    - Destek Tutarı: Toplamda 1.500.000 TL'ye kadar geri ödemeli destek sağlanır.
+    - Ek Destek: Genç, kadın, engelli, gazi veya birinci derecede şehit yakını girişimcilere destek üst limitine 150.000 TL ilave edilir.
+    - Proje Süresi: 36 aydır.
+    - Başvuru Dönemi: 2025-3. Dönem başvuru tarihleri 1 Ekim - 31 Ekim 2025'tir.
+
+Dikkat Edilmesi Gereken Hususlar:
+- Girişimcinin, destek programı başvurusunda ve destek süresince işletmedeki ortaklık payı en az %50 olmalıdır.
+- İşletmenin İş Kurma Desteği için kuruluş tarihinden itibaren bir yıl içinde başvuru yapması gerekir.
+- Destek kapsamında alınan makine, teçhizat, kalıp ve yazılımlar destek süresi (üç yıl) boyunca satılamaz, kiraya verilemez veya devredilemez.
+- KOSGEB desteğiyle alınan makine ve yazılımların asgari teknik özellikleri, Kurul Kararı'nda belirtilen özelliklerle uyumlu olmalıdır. Faturalarda bu özellikler açıkça belirtilmelidir.
+- Ödeme Talebi: Ödeme Talep Formu, ilgili Dönemsel İzleme Formu sisteme kaydedildikten sonra doldurulur ve belgeler yüklenerek talep edilir. Ödeme talebi, projenin tamamlanmasına ilişkin kurul kararının evrak kaydına alındığı tarihten itibaren en geç 4 ay içinde yapılmalıdır.
+

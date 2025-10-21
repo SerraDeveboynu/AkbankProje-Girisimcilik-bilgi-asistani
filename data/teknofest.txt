@@ -1,0 +1,75 @@
+[TEKNOFEST – Genel Bilgi]
+AMAÇ: Türkiye’de milli teknolojinin geliştirilmesi, gençlerin teknoloji üretimine teşvik edilmesi ve toplumda teknoloji farkındalığının artırılması.
+GENEL BİLGİ: TEKNOFEST, T.C. Sanayi ve Teknoloji Bakanlığı ile T3 Vakfı öncülüğünde düzenlenen, havacılık, uzay ve teknoloji temalı dünyanın en büyük festivalidir. Her yıl milyonlarca katılımcıya ulaşır, 50’den fazla teknoloji yarışmasına ev sahipliği yapar.
+ÖDÜLLER: 2025’te 85 milyon TL destek, 65 milyon TL ödül verilmiştir.
+VİZYON: “Milli Teknoloji Hamlesi” vizyonuyla yenilikçi projeleri desteklemek ve girişimcilik kültürünü yaygınlaştırmak.
+
+------------------------------------------------------------
+[TEKNOFEST – Biyoteknoloji İnovasyon Yarışması]
+AMAÇ: Biyoteknoloji alanında yenilikçi fikirleri teşvik etmek ve nitelikli insan kaynağı yetiştirmek.
+KATEGORİLER: Lise, Üniversite ve Üzeri Fikir, Üniversite ve Üzeri Proje kategorileri.
+KATILIM KOŞULLARI: Lise ve üniversite öğrencileri ile mezunlar katılabilir. Takımlar en fazla 10 kişiden oluşur. Lise takımları için danışman zorunludur.
+ÖDÜLLER: Lise kategorisi birincilik 70.000 TL, Üniversite ve Üzeri Proje kategorisi birincilik 150.000 TL. Danışmanlara ayrıca ödül verilir.
+
+------------------------------------------------------------
+[TEKNOFEST – Çevre ve Enerji Teknolojileri Yarışması]
+AMAÇ: Sosyal sorumluluk bilinciyle çevre ve enerji alanında yenilikçi projeler geliştirmek; enerji verimliliğini artırmak, yenilenebilir enerji kaynaklarını teşvik etmek.
+KAPSAM: Çevre Teknolojileri (atık yönetimi, su yönetimi, iklim değişikliği) ve Enerji Teknolojileri (yenilenebilir enerji, enerji verimliliği) kategorilerinden oluşur.
+KATILIM KOŞULLARI: Üniversite öğrencileri ve mezunlar katılabilir. Takımlar en fazla 6 kişiden oluşur.
+ÖDÜLLER: Birincilik 80.000 TL. “Yıldızlı Konu” projelerine özel prestij ödülleri verilir.
+
+------------------------------------------------------------
+[TEKNOFEST – E-Ticaret Hackathonu]
+AMAÇ: Lojistik süreçlerdeki adres yönetimi problemlerine yapay zeka, doğal dil işleme (NLP) ve veri madenciliği ile yenilikçi çözümler üretmek.
+KAPSAM: İki aşamadan oluşur — Kaggle üzerinde ürün sıralama (datathon) ve fiziksel terim-ürün eşleştirme (hackathon).
+KATILIM KOŞULLARI: 15–30 yaş arası lise, üniversite öğrencileri ve yeni mezunlar. Takımlar 2–5 kişiden oluşur. Lise takımları için danışman zorunludur.
+ÖDÜLLER: 1.lik 120.000 TL, 2.lik 100.000 TL, 3.lük 90.000 TL.
+
+------------------------------------------------------------
+[TEKNOFEST – Havacılıkta Yapay Zekâ Yarışması]
+AMAÇ: Havacılık sektöründeki sorunlara yapay zeka teknolojileriyle çözümler geliştirmek.
+KAPSAM: Uçan araçların kamera görüntülerinden nesne tespiti (insan, araç, iniş alanı) ve görsel veriye dayalı konum kestirimi sistemleri.
+KATILIM KOŞULLARI: Lise ve üniversite öğrencileri ile mezunlar. Takımlar 2–5 kişiden oluşur. Lise takımları için danışman zorunludur.
+ÖDÜLLER: 1.lik 200.000 TL, 2.lik 175.000 TL, 3.lük 150.000 TL. Danışmanlara ayrıca ödül verilir.
+
+------------------------------------------------------------
+[TEKNOFEST – Yapay Zeka Destekli Adres Çözümleme Yarışması]
+AMAÇ: Lojistik sektöründe adres verisi tutarsızlıklarını yapay zeka ve doğal dil işleme yöntemleriyle çözmek.
+KAPSAM: Adres eşleştirme, yazım hatalarının düzeltilmesi, verilerin standartlaştırılması ve tekilleştirilmesi.
+KATILIM KOŞULLARI: Üniversite düzeyindeki öğrenciler (ön lisans, lisans, yüksek lisans, doktora). Mezunlar için 1 yıllık yeni mezun şartı. Takımlar 2–4 kişi.
+ÖDÜLLER: 1.lik 120.000 TL, 2.lik 100.000 TL, 3.lük 90.000 TL. Ek olarak Hepsiburada hediye çeki ödülü planlanmıştır.
+
+------------------------------------------------------------
+[TEKNOFEST – Yapay Zeka Film Yarışması]
+AMAÇ: Üretken yapay zeka teknolojilerini kullanarak kısa film üretimini teşvik etmek. Tema: “Benim TEKNOFEST’im”.
+KAPSAM: İki aşamalı süreç — senaryo önerisi → yapay zeka araçlarıyla (Google Gemini, Veo 3 vb.) kısa film üretimi (2–5 dakika).
+KATILIM KOŞULLARI: Üniversite öğrencileri ve mezunlar bireysel veya en fazla 4 kişilik takımlar halinde katılabilir. Danışman zorunlu değildir.
+ÖDÜLLER: 1.lik 150.000 TL, 2.lik 120.000 TL, 3.lük 100.000 TL. Ayrıca “En İyi Film Afişi Ödülü” gibi prestij ödülleri vardır.
+
+------------------------------------------------------------
+[TEKNOFEST – N’Sosyal Super App Creathon]
+AMAÇ: Sosyal medya, mesajlaşma, yemek sipariş, ulaşım ve ödeme modüllerini içeren bir Super App için kullanıcı deneyimi (UI/UX) tasarımı geliştirmek.
+KAPSAM: Katılımcılardan, modülleri içeren, kullanıcı akışları açık ve tıklanabilir Figma prototipleri hazırlamaları beklenir.
+KATILIM KOŞULLARI: Sadece öğrencilere açıktır. Takımlar 1–3 kişiden oluşur.
+ÖDÜLLER: 1.lik 250.000 TL, 2.lik 150.000 TL, 3.lük 100.000 TL.
+
+------------------------------------------------------------
+[TEKNOFEST – Tarım Teknolojileri Yarışması]
+AMAÇ: Tarım sektörüne teknolojik katkı sağlamak, verimliliği artırmak ve çevresel etkileri azaltmak.
+KAPSAM: Üç ana kategori: Bitkisel Üretim (tarım robotları, ileri sulama, genetik mühendislik), Hayvansal Üretim (akıllı çiftlik yönetimi, yem teknolojileri), Su Ürünleri (balık sağlığı, su arıtma, takip sistemleri).
+KATILIM KOŞULLARI: Lise ve üniversite öğrencileri ile mezunlar. Takımlar 6 kişiyle sınırlıdır. Lise takımları için danışman zorunludur.
+TAKVİM: Başvuru son tarihi 1 Mart 2025, Ön değerlendirme 17 Mart 2025, Sunum 5 Temmuz 2025, Finaller Ağustos–Eylül 2025.
+ÖDÜLLER: 
+- Lise: 1.lik 70.000 TL, 2.lik 60.000 TL, 3.lük 50.000 TL.
+- Üniversite: 1.lik 80.000 TL, 2.lik 70.000 TL, 3.lük 60.000 TL.
+- Danışman: 1.lik 10.000 TL, 2.lik 7.500 TL, 3.lük 5.000 TL.
+Ek Ödüller: “En İyi Sunum”, “Ticarileştirme Potansiyeli” ve “Yıldızlı Proje” ödülleri.
+
+------------------------------------------------------------
+[TEKNOFEST – Sağlıkta Yapay Zeka Yarışması]
+AMAÇ: Toplum sağlığına yönelik problemlere yapay zeka çözümleri geliştirmek (örnek: kalp hastalıkları, inme, kanser tespiti).
+KAPSAM: 
+- Lise: Kolonoskopi görüntülerinden polip segmentasyonu, akciğer grafilerinden kalp büyümesi tespiti.  
+- Üniversite: BT ve MR görüntülerinden inme tespiti ve zamansal sınıflandırma.
+KATILIM KOŞULLARI: Lise ve üniversite öğrencileri ile mezunlar. Takımlar 2–5 kişiden oluşur. Lise takımları için danışman zorunludur.
+ÖDÜLLER: Lise 120.000 TL, Üniversite 160.000 TL. Danışmanlara ek ödül verilir.
