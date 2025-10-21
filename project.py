@@ -75,9 +75,9 @@ collection = client.get_or_create_collection(
     metadata={"hnsw:space": "cosine"}
 )
 
-    vecs = embed_texts(texts)
-    collection.add(ids=ids, documents=texts, embeddings=vecs.tolist(), metadatas=metadatas)
-    return len(texts)
+vecs = embed_texts(texts)
+collection.add(ids=ids, documents=texts, embeddings=vecs.tolist(), metadatas=metadatas)
+return len(texts)
 
 def retrieve(query, k=4):
     qvec = embed_texts([query])[0].tolist()
@@ -151,4 +151,5 @@ if prompt := st.chat_input("Örn: 'KOSGEB genç girişimcilere hangi destekleri 
                 st.error(answer)
 
     st.session_state.chat.append({"role": "assistant", "content": answer})
+
 
